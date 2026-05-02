@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/DurgaPrasadGiri">Durga Prasad Giri</a></h1>
 
-<h3 align="center">🚀 Full Stack & AI/ML Engineer | Builder | Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | SpringBoot | AI/ML Enthusiast</h3>
 
 ---
 
 ### 💡 About Me  
-- 🔭 Currently building projects in **AI, ML, Microservices, Springboot, Angular and Deep Learning**  
-- 🌱 Learning **LangChain**, **FastAPI**, and **MLOps**  
-- 💬 Ask me about **Python, Django, React, or Machine Learning**  
+- 🔭 Currently working on **Full Stack Projects (React + SpringBoot + My SQL)**
+- 🌱 Learning **Spring Boot**, **Microservices** & **React**
+- 🤖 Exploring **AI/ML, LangChain, FastAPI, MLOps**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/durga-p-giri-817470137/)  
 
 ---
