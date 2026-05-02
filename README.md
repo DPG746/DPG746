@@ -98,10 +98,12 @@
 
 ---
 
-### 🧠 Currently Exploring  
-- Chatbots using **LangChain + FastAPI**  
-- **MLOps pipelines** with Docker & CI/CD  
-- **AI deployments** on Azure  
+## 🧠 Currently Exploring  
+
+- 🔹 Building scalable applications using **Spring Boot**  
+- 🔹 Understanding **Microservices Architecture**  
+- 🔹 Improving **DSA & Problem Solving skills**  
+- 🔹 Enhancing frontend skills with **React**
 
 ---
 
