@@ -47,7 +47,9 @@
 ---
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/DPG746/DurgaPrasadGiri/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![snake gif](https://github.com/DPG746/DurgaPrasadGiri/blob/output/github-contribution-grid-snake.svg)</div>
 
 ---
 
