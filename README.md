@@ -1,6 +1,4 @@
-<!--<div align="center">>-->
 
-<!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="developer working" /> </div>-->>
 <!--<h1 align="center">👋 Hi, I'm <a href="https://github.com/DurgaPrasadGiri">Durga Prasad Giri</a></h1>-->>
 
 <h1>
