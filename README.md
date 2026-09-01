@@ -35,14 +35,6 @@
 </p>
 
 ---
-
-## 🌟 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DPG746&theme=tokyo-night" />
-</p>
-
----
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
